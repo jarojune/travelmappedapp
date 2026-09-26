@@ -20,9 +20,11 @@ or share your data.
 
 ### What the app stores
 
-- **Your Google account details.** You sign in with Google. We store your
-  name, email address and profile picture link, an account ID, and when you
-  last signed in, so the app can keep your trips under your account.
+- **Your account details.** You sign in with Google (or with an email
+  address and password, for accounts we set up, such as one for app review).
+  We store your name and profile picture link (Google accounts), your email
+  address, an account ID, and when you last signed in, so the app can keep
+  your trips under your account.
 - **What you write.** Trip titles and dates; stop names, dates, notes and
   positions; journal entries; and photo captions.
 - **Photos you add.** Photos are kept on your phone. If "Back up photos to
@@ -92,7 +94,8 @@ Questions or requests: [juneapps@outlook.com](mailto:juneapps@outlook.com)
 
 1. Open Travel Mapped and go to **Settings** (the gear on the trips screen).
 2. Tap **Delete account**, read the warning, and tap **Delete everything**.
-3. Confirm by signing in with the same Google account.
+3. Confirm by signing in with the same Google account (or, for an email
+   account, by entering your password).
 
 Your account and all its data are deleted right away.
 
@@ -100,7 +103,7 @@ Your account and all its data are deleted right away.
 
 Email [juneapps@outlook.com](mailto:juneapps@outlook.com?subject=Delete%20my%20Travel%20Mapped%20account)
 with the subject **"Delete my Travel Mapped account"**, sent from the email
-address of the Google account you use with Travel Mapped (so we can be sure
+address you use with Travel Mapped (so we can be sure
 the request is yours). We'll delete the account within 30 days and reply to
 confirm.
 
@@ -118,4 +121,3 @@ Nothing is kept by us. Photos you saved to your phone's gallery with
 "Save to device" are ordinary photos on your phone and are not affected.
 Google may keep deleted data in its internal backups for a limited time
 before it is erased.
-
