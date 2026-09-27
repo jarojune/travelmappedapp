@@ -12,7 +12,7 @@ Contact: [juneapps@outlook.com](mailto:juneapps@outlook.com)
 
 ## Privacy policy
 
-*Effective September 26, 2026*
+*Effective September 27, 2026*
 
 This policy explains what Travel Mapped stores, where, and how you can
 delete it. We don't show ads, don't use analytics or tracking, and don't sell
@@ -34,7 +34,8 @@ or share your data.
   each photo we also store its capture time, its size and dimensions, a
   fingerprint used to spot duplicates, and the location where it was taken
   if that is recorded in the photo (Android often removes it before the app
-  sees the photo).
+  sees the photo). We also keep a running total of the cloud space your
+  photos use, to apply the backup allowance.
 - **Your location, only when you ask.** If you add a stop "at my current
   location", the app reads your phone's location once, while you're using
   the app, and saves it as that stop's position. The app never tracks your
