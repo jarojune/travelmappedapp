@@ -12,11 +12,12 @@ Contact: [juneapps@outlook.com](mailto:juneapps@outlook.com)
 
 ## Privacy policy
 
-*Effective September 27, 2026*
+*Effective October 11, 2026*
 
 This policy explains what Travel Mapped stores, where, and how you can
 delete it. We don't show ads, don't use analytics or tracking, and don't sell
-or share your data.
+or share your data. The only diagnostic data the app sends is a crash report
+when something goes wrong.
 
 ### What the app stores
 
@@ -59,6 +60,13 @@ entry and photo to the account that created it.
   coordinates.
 - **App Check** uses Google Play Integrity to confirm requests come from the
   genuine app, which protects your data from misuse.
+- **Crash reports.** If the app crashes or hits an unexpected error, it
+  sends a report to Firebase Crashlytics (Google) so we can fix the problem.
+  A report contains the technical details of the error, the app version,
+  your phone's model and Android version, device state at the time (such as
+  free memory and storage), and a random ID for this installation of the
+  app. It does not include your name, email, account, trips, writing or
+  photos. Reports are kept for 90 days.
 
 ### How long we keep it, and deleting it
 
