@@ -12,7 +12,7 @@ Contact: [juneapps@outlook.com](mailto:juneapps@outlook.com)
 
 ## Privacy policy
 
-*Effective October 11, 2026*
+*Effective October 14, 2026*
 
 This policy explains what Travel Mapped stores, where, and how you can
 delete it. We don't show ads, don't use analytics or tracking, and don't sell
@@ -36,7 +36,16 @@ when something goes wrong.
   fingerprint used to spot duplicates, and the location where it was taken
   if that is recorded in the photo (Android often removes it before the app
   sees the photo). We also keep a running total of the cloud space your
-  photos use, to apply the backup allowance.
+  photos use, to apply the backup allowance (1 GB free, 50 GB with a Cloud
+  Backup subscription).
+- **Your Cloud Backup subscription, if you buy one.** Payment is handled
+  entirely by Google Play: we never see your card or other payment details.
+  Google Play tells us whether your subscription is active, which plan you
+  chose (monthly or yearly), when it renews or ends, and a purchase
+  reference, which we store with your account to give you the extra cloud
+  space. A purchase is tagged with a scrambled (one-way) version of your
+  account ID, so we can check it belongs to you without Google learning your
+  Travel Mapped account.
 - **Your location, only when you ask.** If you add a stop "at my current
   location", the app reads your phone's location once, while you're using
   the app, and saves it as that stop's position. The app never tracks your
@@ -58,6 +67,8 @@ entry and photo to the account that created it.
 - **Addresses for stops** are looked up with Android's built-in geocoder
   (provided by Google on most phones), which receives the stop's
   coordinates.
+- **Google Play** processes Cloud Backup subscription payments, under
+  [Google's privacy policy](https://policies.google.com/privacy).
 - **App Check** uses Google Play Integrity to confirm requests come from the
   genuine app, which protects your data from misuse.
 - **Crash reports.** If the app crashes or hits an unexpected error, it
@@ -76,7 +87,13 @@ Your data is kept until you delete it:
 - Deleting a trip removes it, with its stops, journal entries and photos,
   permanently a few seconds later (after the chance to undo).
 - **Deleting your account** permanently removes your account and everything
-  in it. See [Delete your account](#delete-your-account).
+  in it. See [Delete your account](#delete-your-account). This also removes
+  our record of your Cloud Backup subscription, but **doesn't cancel the
+  subscription**: cancel it in Google Play (Payments & subscriptions →
+  Subscriptions) to stop being charged.
+- If a Cloud Backup subscription ends, photos already backed up stay in the
+  cloud; new photos past the free 1 GB stay on your phone until you
+  subscribe again or free up space.
 
 Photos you saved to your phone's gallery with "Save to device" are ordinary
 photos on your phone and are not affected. Google may keep deleted data in
@@ -123,10 +140,15 @@ confirm.
 - All your photos in the cloud, including their thumbnails and screen-sized
   copies, and their details (capture time and location).
 - When deleted in the app: the photos the app keeps on that phone.
+- Our record of your Cloud Backup subscription, if you had one. Deleting the
+  account **doesn't cancel the subscription**: cancel it in Google Play
+  first (Payments & subscriptions → Subscriptions).
 
 ### What is kept
 
 Nothing is kept by us. Photos you saved to your phone's gallery with
 "Save to device" are ordinary photos on your phone and are not affected.
+Google Play keeps its own record of purchases, under Google's privacy
+policy.
 Google may keep deleted data in its internal backups for a limited time
 before it is erased.
